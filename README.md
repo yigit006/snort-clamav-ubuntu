@@ -1,8 +1,8 @@
-# 🐍 Snort ve ClamAV Kurulumu: ICMP ve Antivirüs Testleri (Ubuntu)
+# 🐍 Snort Kurulumu: ICMP ve Antivirüs Testleri (Ubuntu)
 
 Bu rehber, Ubuntu üzerinde Snort IDS ve ClamAV antivirüs sistemlerinin kurulumunu, test dosyalarıyla çalışma prensiplerini ve terminal üzerinden test edilmesini adım adım açıklar.
 
-# 🐍 Snort and ClamAV Setup: ICMP and Antivirus Tests (Ubuntu)
+# 🐍 Snort Setup: ICMP and Antivirus Tests (Ubuntu)
 
 This guide explains how to install and test Snort IDS and ClamAV antivirus on Ubuntu. It includes configuration and EICAR test file simulations to verify detection functionality.
 
